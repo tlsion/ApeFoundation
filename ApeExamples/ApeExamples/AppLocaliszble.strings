@@ -1,0 +1,18 @@
+/* 
+  YouhuLocaliszble.strings
+  Youhu
+
+  Created by Eton on 2016/11/24.
+  Copyright © 2016年 ApeStar. All rights reserved.
+*/
+
+
+//测试服务器地址
+"Debug_Service_URL"="http://company.apestar.cn";
+
+//线上服务器地址
+"Release_Service_URL"="http://company.apestar.cn";
+
+"APP_SITE"="apestar";
+"API_VERSION"="1.0";
+"APP_TYPE"="IOS_TYPE_APESTAR";

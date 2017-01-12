@@ -1,0 +1,9 @@
+platform :ios, ‘7.0’
+
+target ‘ApeExamples’ do 
+
+pod 'Maris', '~> 2.0.0'
+pod 'MJRefresh'
+pod 'Maris', '~> 2.0.0'
+
+end
